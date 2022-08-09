@@ -1,0 +1,9 @@
+# ignore everythinng with .exe extension
+*.exe
+
+#ignore input and output files for cpp
+/input.txt
+/output.txt
+
+#ignore .vscode configurations
+.vscode/
